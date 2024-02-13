@@ -3,3 +3,5 @@ for tommorow:
 -eggs
 -coca cola 
 -pasta
+- banana
+- apple
